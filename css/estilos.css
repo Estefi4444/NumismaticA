@@ -1,0 +1,18 @@
+.imagen-logo img {
+  width: 100px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.campana {
+  font-size: 25px;
+}
